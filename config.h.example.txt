@@ -1,0 +1,6 @@
+#define NETWORK_SSID "<fill me in>"
+#define NETWORK_PASSWORD "<fill me in>"
+
+#define PORT 80
+#define HOST String("maker.ifttt.com")
+#define PATH String("<get me from maker.ifttt.com>")
